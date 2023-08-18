@@ -140,13 +140,13 @@ h1 {
   border-radius: 5px;  
   color: #F9FAf8;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 80px;
   font-size: 12px;
   padding: 10px 40px;
-  margin-top: 44px;
-  margin-bottom: 44px;
+  margin: 40px 0px;
+  width: 100%;
 }
 
 .call-to-action > button {
